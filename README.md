@@ -13,6 +13,6 @@ then just click on the script and it will work
 
 <img width="483" height="419" alt="kuva" src="https://github.com/user-attachments/assets/58b39a46-1f8e-44e4-9bfd-1a9db7b87a42" />
 
-press the ZIP and then the highlighted thing on the picture
+press the code button and then the highlighted thing on the picture
 
 capiche boy?
